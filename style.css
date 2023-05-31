@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: solid 5px #00CC00;
+    color: #33CCCC;
+    font-size: 30px;
+    background-color: greenyellow;
+}
+nav{
+   font-size: 30px;
+       margin-left: 40px;
+       padding: 10px;
+       color: black;
+       
+}
+main h1{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
+footer{
+    word-spacing: 30px;
+    margin-left: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+header a:hover{
+    color: white;
+}
+b:hover{
+    color: red;
+}
